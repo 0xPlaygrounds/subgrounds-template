@@ -25,7 +25,7 @@ To update dependencies:
 
 ```bash
 pip install my-package
-pip freeze > requirements.txt
+pip freeze > requirements.txt  # or manually add your package + version
 ```
 
 ## Important
