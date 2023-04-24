@@ -27,3 +27,6 @@ To update dependencies:
 pip install my-package
 pip freeze > requirements.txt
 ```
+
+## Important
+This repo is licensed as MIT which means using the template will default your repo to MIT. Make sure to change this in a follow up commit (also update the copyright holder, etc).
