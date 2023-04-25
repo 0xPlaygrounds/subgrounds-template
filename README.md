@@ -1,6 +1,6 @@
 # subgrounds-template
 
-![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/0xPlaygrounds/subgrounds-template)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/0xPlaygrounds/subgrounds-template)
 
 This repo contains a simple setup for bootstrapping a project with `subgrounds`. We recommend following our [setup](https://docs.playgrounds.network/subgrounds/faq/setup/) guide to maintain a localized project setup!
 
